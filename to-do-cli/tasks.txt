@@ -1,0 +1,5 @@
+Dayly
+Criar brainstorm
+Finalizar Issue
+Enviar Pull Request
+Terminal tutorial
